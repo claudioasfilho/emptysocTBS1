@@ -1,0 +1,24 @@
+#CRC Codes for initially generated config files -- do not modify!
+#Thu Mar 11 08:42:45 PST 2021
+sl_simple_led_Green_config.h=-757020539
+nvm3_default_config.h=-1865878923
+sl_bluetooth_config.h=-1605786923
+sl_hfxo_manager_config.h=518269156
+sl_device_init_lfrco_config.h=-1175914260
+sl_device_init_lfxo_config.h=-1975987421
+mbedtls_config.h=-479277729
+sl_sleeptimer_config.h=-1074849105
+sl_device_init_dcdc_config.h=540536968
+sl_device_init_emu_config.h=834225026
+sl_rail_util_pa_config.h=1333196633
+btconf/ota_dfu.xml=-856428549
+sl_rail_util_pti_config.h=1414306924
+btconf/gatt_configuration.btconf=-469633858
+sl_mx25_flash_shutdown_usart_config.h=-283962480
+sl_simple_led_Blue_config.h=-350735646
+sl_app_assert_config.h=1294668113
+sl_device_init_hfxo_config.h=-710191774
+sl_simple_led_Red_config.h=1220925456
+sl_board_control_config.h=-1677740770
+sl_power_manager_config.h=765860105
+sl_memory_config.h=1136720201
